@@ -9,5 +9,3 @@ export async function hello(event) {
   }
   return response
 }
-
-export async function register(event) {}
