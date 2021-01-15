@@ -4,7 +4,7 @@ export async function hello(event) {
     body: JSON.stringify({
       message: "Go Serverless v1.0! Your function executed successfully!",
       input: event,
-      my_ass: "tastes like chocolate pudding"
+      hello: "world"
     })
   }
   return response
