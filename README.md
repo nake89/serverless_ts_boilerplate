@@ -8,7 +8,7 @@ Type in terminal:
 
 ```bash
 npm i -g serverless # Installs serverless globablly, so you can run sls command
-npx degit nake89/serverless_ts_boilerplate\#main my-app # Copy this boilerplate to my-app folder
+npx tiged nake89/serverless_ts_boilerplate my-app # Copy this boilerplate to my-app folder
 cd my-app # Go to folder
 npm i -D # Installs dependencies
 sls offline start # Run server
