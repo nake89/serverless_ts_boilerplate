@@ -1,6 +1,6 @@
-# serverless_ts_boilerplate
+# Serverless TypeScript Starter
 
-A Typescript boilerplate using the Serverless framework
+- Uses serverless-offline so one can develop serverless locally.
 
 ## Usage:
 
