@@ -2,7 +2,7 @@
   "main": "handler.js",
   "devDependencies": {
     "@types/node": "^14.17.32",
-    "serverless-offline": "^6.9.0",
+    "serverless-offline": "^12.0.3",
     "serverless-plugin-typescript": "1.2.0",
     "typescript": "^4.4.4"
   }
